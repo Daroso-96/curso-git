@@ -1,0 +1,8 @@
+este archivo es solo de pruebas
+para aprender a utilizar la terminal
+de linux y usar bien git 
+¡Feliz inicio de aprendizaje! 
+¡Tu puedes!
+
+:q
+
