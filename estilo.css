@@ -4,8 +4,14 @@ body{
 
 }
 .titulo{
-    color: pink;
+    color: peachpuff;
 }
 .containers{
     border-top: 1px solid blueviolet;
+}
+.master{
+    text-align: justify;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:chartreuse;
+
 }
