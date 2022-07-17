@@ -7,5 +7,10 @@ body{
     color: pink;
 }
 .containers{
-    border-top: 1px solid blueviolet;
+    border-top: 5px solid blueviolet;
+}
+.cabecera {
+    font-weight: bold;
+    padding: 10px;
+
 }
