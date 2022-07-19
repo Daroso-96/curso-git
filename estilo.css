@@ -1,17 +1,8 @@
-body{
-    text-align: center;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-
+.container{
+    padding-top: 10px;
 }
 .titulo{
-    color: peachpuff;
-}
-.containers{
-    border-top: 1px solid blueviolet;
-}
-.master{
-    text-align: justify;
-    font-family:Georgia, 'Times New Roman', Times, serif;
-    color:chartreuse;
-
+    padding-top: 10px;
+    text-align: center;
+    color: pink;
 }
